@@ -1,0 +1,30 @@
+{
+  "name": "shandytown",
+  "version": "1.0.0",
+  "description": "Node.js Node.js Rest Apis with Express, Sequelize & MySQL.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/je1013/shandytown.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "vue"
+  ],
+  "author": "je1013",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/je1013/shandytown/issues"
+  },
+  "homepage": "https://github.com/je1013/shandytown#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
